@@ -1,2 +1,3 @@
 # hello-world
-Testing Github
+
+This is a test of hte GitHub repository prior to using it.
